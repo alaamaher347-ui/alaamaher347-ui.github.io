@@ -1,0 +1,272 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a073a5dc44eecd4d642eb5444219a67b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/saimon-franke",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/saimon-franke/index.html",
+        "type": "file",
+        "md5": "1df26d01f4f7629ad5174f791a2572ee"
+    },
+    {
+        "path": "authors/saimon-franke/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/saimon-franke/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/saimon-franke/page/2/index.html",
+        "type": "file",
+        "md5": "1c74933acabdfaf3c45c2182f3244961"
+    },
+    {
+        "path": "discover-the-elegance-a-guide-to-high-end-furniture-trends-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-elegance-a-guide-to-high-end-furniture-trends-in-the-usa/index.html",
+        "type": "file",
+        "md5": "17a4e4fd157d1ee51518a32ede46735d"
+    },
+    {
+        "path": "discover-the-elegance-of-victorian-end-tables-a-timeless-addition-to-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-elegance-of-victorian-end-tables-a-timeless-addition-to-your-home/index.html",
+        "type": "file",
+        "md5": "093ba9dfee446fd6b24a94afec16176c"
+    },
+    {
+        "path": "discover-timeless-elegance-victorian-dining-sets-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-victorian-dining-sets-for-your-home/index.html",
+        "type": "file",
+        "md5": "d7525d6bba341c1305abe05e6559a4b6"
+    },
+    {
+        "path": "elevate-your-bedroom-aesthetic-with-victorian-dressers-and-nightstands",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-bedroom-aesthetic-with-victorian-dressers-and-nightstands/index.html",
+        "type": "file",
+        "md5": "3b8e8c49d55d11ffaf3db8851fad6fa2"
+    },
+    {
+        "path": "enhance-your-home-decor-with-victorian-console-tables-and-mirrors-a-timeless-elegance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhance-your-home-decor-with-victorian-console-tables-and-mirrors-a-timeless-elegance/index.html",
+        "type": "file",
+        "md5": "215179027192cd39916f9c5cb4eb70ee"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e3dbe6fad18eff37e5f290d5b4834371"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "342c12e795015602320979c007feab7c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "a32d8a86efd5d143f8ecb3ccb1536a1e"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/mobiliacleopatraca_1735927268_555.avif",
+        "type": "file",
+        "md5": "fad6cb09de5883a6e0f8d9f88abc4eb2"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "c540c951ab95eaf20e5dc205aa121b23"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "7c9bc21cb99c51dfe52665fdca21113c"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "5a991b919dedfbac91412a5cf8757180"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "9852415971ab7e3bf950606108e3250d"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-choosing-victorian-beds-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-choosing-victorian-beds-for-your-home/index.html",
+        "type": "file",
+        "md5": "e4feebbe2d7f6b00f022afeedcf6ed75"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-victorian-coffee-tables-for-your-living-room",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-victorian-coffee-tables-for-your-living-room/index.html",
+        "type": "file",
+        "md5": "90e702fdca819fb12fa0e9b1071f4f9e"
+    },
+    {
+        "path": "timeless-elegance-choosing-the-perfect-victorian-dining-chairs-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-choosing-the-perfect-victorian-dining-chairs-for-your-home/index.html",
+        "type": "file",
+        "md5": "e7152951f51ab7c45184fd812fbc40fc"
+    },
+    {
+        "path": "timeless-elegance-how-victorian-vases-add-charm-to-your-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-how-victorian-vases-add-charm-to-your-home-decor/index.html",
+        "type": "file",
+        "md5": "890b1fd50a4b7cd306af1e3a40e871de"
+    },
+    {
+        "path": "victorian-living-room-sets-timeless-elegance-for-your-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-living-room-sets-timeless-elegance-for-your-home-decor/index.html",
+        "type": "file",
+        "md5": "c911c29cff2c6be2a8a2fb4a0212315e"
+    }
+]

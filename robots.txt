@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alaamaher347-ui.github.io/sitemap.xml
